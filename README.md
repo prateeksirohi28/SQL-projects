@@ -1,5 +1,5 @@
 # SQL-projects
-## Danny's Dinner
+## [Danny's Dinner](https://github.com/prateeksirohi28/SQL-projects/blob/main/danny_question.sql)
 what is danny's dinner: This project is about a restaurant which runs a membership programme for its customers and offers  different dishes and maintains a record of customers.In this restaurant's database we have three tables sales, menu and members.
 ### Objectives
 * Frequently purchased items by the customers i.e, most popular dishes.
