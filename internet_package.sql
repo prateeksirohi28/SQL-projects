@@ -9,13 +9,13 @@ select * from plans;
 
 # Find customers who are currently on the pro monthly plan.
 select customer_id
- from plans p inner join subscription s using (plan_id) where plan_name ='pro monthly';
+from plans p inner join subscription s using (plan_id) where plan_name ='pro monthly';
  
- # Get the customers who started their trial on or after 2020-08-01.
- select customer_id from subscription where start_date > 01-08-2020;
+# Get the customers who started their trial on or after 2020-08-01.
+select customer_id from subscription where start_date > 01-08-2020;
  
- # Count the total number of customers who have subscribed to the basic monthly plan.
- select count(distinct customer_id)
+# Count the total number of customers who have subscribed to the basic monthly plan.
+select count(distinct customer_id)
 from plans p inner join subscription s using (plan_id) where plan_name = 'basic monthly';
 
 # Retrieve the customers who churned.
