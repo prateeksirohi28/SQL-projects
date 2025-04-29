@@ -27,21 +27,21 @@ This dataset has different internet package plans with varying price range as pe
 * Which customers are using premium plans
 * Potential customers for the company
 
-## Moive dataset(https://github.com/prateeksirohi28/SQL-projects/blob/main/movie_sol.sql)
+## [Moive dataset](https://github.com/prateeksirohi28/SQL-projects/blob/main/movie_sol.sql)
 Movie dataset contains all the information about the directors, actors, cast, genres,movie , movie direction,raings and reviewers.It contains all the information like which is best director and what ratings he had in previous movies directed by him and much more.
 ### Objectives
 * Finding best movies region wise
 * Which movie is released globally
 * Movie with highest ratings
 
-## Screen time(https://github.com/prateeksirohi28/SQL-projects/blob/main/screen_time.sql)
+## [Screen time](https://github.com/prateeksirohi28/SQL-projects/blob/main/screen_time.sql)
 This dataset talks about screen time and for what kind of purpose like recreational, educationa and etc. For what duration of time screen has been used.
 ### Objectives
 * Age group that has maximum screen_time
 * Gender wise screen_time usage
 * Screen time on weekdays and weekend
 
-## Weather realated disease(https://github.com/prateeksirohi28/SQL-projects/blob/main/weather_related_disease.sql)
+## [Weather realated disease](https://github.com/prateeksirohi28/SQL-projects/blob/main/weather_related_disease.sql)
 This dataset has various parmater(like temperature, humidity , wind speed) which changes when weather changes and causes disease . This data also when someone gets ill or infected which symptom they develop like fever, headache, chills, nausea, chest pain , cough and etc. On the bases of these parameter this dataset provides diagnosis(what is the disease based on the symptom
 ### Objectives
 * What symptoms develop when diseasae is dengue
