@@ -18,7 +18,7 @@ This dataset show that patients fertilty diagnosis has changed or not on the bas
 ### Objectives
 * Sitting hours affect fertility or not
 * Consumption of alcohol and smoking habits alters diagnosis
-* Why disgnois is changing
+* Why diagnosis is changing
 
 ## [Internet package](https://github.com/prateeksirohi28/SQL-projects/blob/main/internet_package.sql)
 This dataset has different internet package plans with varying price range as per the criteria and shows when the subscription has started for selected plans at various price. This database contains two tables subscription and plans.
